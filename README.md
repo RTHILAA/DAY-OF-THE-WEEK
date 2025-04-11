@@ -35,10 +35,6 @@ We would appreciate it if you decide to use this project. Please include credit 
 - **Colors**: Modify the gradient and color values in `style.css` under the respective day classes (e.g., `.monday`, `.tuesday`).
 - **Animations**: Adjust the keyframes in `style.css` to change animation effects.
 
-## Screenshots :
-
-![App Screenshot](screenshot.png) *(Replace with an actual screenshot if available.)*
-
 ## Browser Support :
 
 The project supports all modern browsers including:
